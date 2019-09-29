@@ -8,7 +8,7 @@ namespace CustomerMicroservices.Address.Tests
         public void CanChangeAddress()
         {
             IBus bus = new TestBus();
-            IHasPostalAddress customer = new Customer(bus, hasAddressHold: false);
+            IHasPostalAddress customer = new Customer(bus);
             customer.RequestChangeAddress(new ChangeAddressRequested());
             Assert.True(bus.HasMessage(m => m is AddressChanged));
         }
@@ -17,10 +17,22 @@ namespace CustomerMicroservices.Address.Tests
         public void WhenAddressHoldIsActive_CannotChangeAddress()
         {
             IBus bus = new TestBus();
-            IHasPostalAddress customer = new Customer(bus, hasAddressHold: true);
+            IHasPostalAddress customer = new Customer(bus);
+            customer.RequestAddressHold(new AddressHoldRequested());
             customer.RequestChangeAddress(new ChangeAddressRequested());
             Assert.False(bus.HasMessage(m => m is AddressChanged));
             Assert.True(bus.HasMessage(m => m is BusinessLogicError<ChangeAddressRequested>));
+        }
+
+        [Fact]
+        public void WhenAddressHold_IsActive_AndIsMadeInactive_CanChangeAddress() {
+
+            IBus bus = new TestBus();
+            IHasPostalAddress customer = new Customer(bus);
+            customer.RequestAddressHold(new AddressHoldRequested());
+            customer.RequestReleaseAddressHold(new ReleaseAddressHoldRequested());
+            customer.RequestChangeAddress(new ChangeAddressRequested());
+            Assert.True(bus.HasMessage(m => m is AddressChanged));
         }
     }
 }
