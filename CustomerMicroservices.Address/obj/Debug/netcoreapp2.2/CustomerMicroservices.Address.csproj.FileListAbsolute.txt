@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address\bin\Debug\netcoreapp2.2\CustomerMicroservices.Address.deps.json
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address\bin\Debug\netcoreapp2.2\CustomerMicroservices.Address.runtimeconfig.json
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address\bin\Debug\netcoreapp2.2\CustomerMicroservices.Address.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address\bin\Debug\netcoreapp2.2\CustomerMicroservices.Address.dll
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address\bin\Debug\netcoreapp2.2\CustomerMicroservices.Address.pdb
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address\obj\Debug\netcoreapp2.2\CustomerMicroservices.Address.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address\obj\Debug\netcoreapp2.2\CustomerMicroservices.Address.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address\obj\Debug\netcoreapp2.2\CustomerMicroservices.Address.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address\obj\Debug\netcoreapp2.2\CustomerMicroservices.Address.AssemblyInfo.cs
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address\obj\Debug\netcoreapp2.2\CustomerMicroservices.Address.dll
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address\obj\Debug\netcoreapp2.2\CustomerMicroservices.Address.pdb

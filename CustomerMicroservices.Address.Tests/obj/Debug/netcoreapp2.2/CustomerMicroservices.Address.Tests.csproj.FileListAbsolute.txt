@@ -1,0 +1,17 @@
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\bin\Debug\netcoreapp2.2\CustomerMicroservices.Address.Tests.deps.json
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\bin\Debug\netcoreapp2.2\CustomerMicroservices.Address.Tests.runtimeconfig.json
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\bin\Debug\netcoreapp2.2\CustomerMicroservices.Address.Tests.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\bin\Debug\netcoreapp2.2\CustomerMicroservices.Address.Tests.dll
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\bin\Debug\netcoreapp2.2\CustomerMicroservices.Address.Tests.pdb
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\bin\Debug\netcoreapp2.2\CustomerMicroservices.Address.dll
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\bin\Debug\netcoreapp2.2\CustomerMicroservices.Address.pdb
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\obj\Debug\netcoreapp2.2\CustomerMicroservices.Address.Tests.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\obj\Debug\netcoreapp2.2\CustomerMicroservices.Address.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\obj\Debug\netcoreapp2.2\CustomerMicroservices.Address.Tests.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\obj\Debug\netcoreapp2.2\CustomerMicroservices.Address.Tests.AssemblyInfo.cs
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\obj\Debug\netcoreapp2.2\CustomerMicroservices.Address.Tests.csproj.CopyComplete
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\obj\Debug\netcoreapp2.2\CustomerMicroservices.Address.Tests.dll
+C:\Users\Tom\source\repos\CustomerMicroservices.Address\CustomerMicroservices.Address.Tests\obj\Debug\netcoreapp2.2\CustomerMicroservices.Address.Tests.pdb
